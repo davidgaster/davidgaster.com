@@ -58,6 +58,6 @@ email: ""
 highlight_name: false
 ---
 
-I'm a software engineer on the Integrations, Identity and Search team at Workday. I enjoy earning new programming languages, solving complex problems and building systems at scale.
+I'm a software engineer on the Integrations, Identity and Search team at Workday. I enjoy learning new programming languages, solving complex problems and building systems at scale.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Gaster_David_Resume.pdf" "newtab" >}}resume{{< /staticref >}}.
