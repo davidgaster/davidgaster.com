@@ -20,7 +20,8 @@ bio: My interests include distributed systems, cloud computing and data infrastr
 interests:
 - distributed systems
 - cloud computing
-- data infrastructure
+- machine learning
+- blockchain technology
 
 # Education to show in About widget
 education:
@@ -58,6 +59,6 @@ email: ""
 highlight_name: false
 ---
 
-I'm a software engineer on the Integrations, Identity and Search team at Workday. I enjoy learning new programming languages, solving complex problems and building systems at scale.
+I'm a software engineer at Workday developing REST API's and backend services for business intelligence and data infrastructure. I enjoy learning new languages, solving challenging problems and building systems at scale.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Gaster_David_Resume.pdf" "newtab" >}}resume{{< /staticref >}}.

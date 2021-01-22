@@ -22,24 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Software Engineer
+    company: Workday
+    company_url: 'https://www.workday.com/'
+    location: SF Bay Area
+    date_start: '2019-09-16'
     date_end: ''
     description: |2-
-        Responsibilities include:
+      * Integrations, identity and search team
+      * Full stack engineering with React, Node.js, Go, AWS
+      * Data pipelines and ETL jobs in SnapLogic
+      * CI/CD with Jenkins, Docker, Kubernetes
+      * Performance monitoring and analytics with Splunk
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Data Engineer Intern
+    company: Blitzz
+    company_url: 'https://www.blitzz.io/'
+    location: San Mateo, CA
+    date_start: '2018-07-01'
+    date_end: '2018-10-01'
+    description: |2-
+      * Cloud native data replication team
+      * Query parser in Haskell for different dialects of SQL
+      * Data warehouse migration between MySQL and PostreSQL
+  
+  - title: Academic Tutor
+    company: UCSD Computer Science Department
+    company_url: 'https://cse.ucsd.edu/'
+    location: La Jolla, CA
+    date_start: '2018-01-01'
+    date_end: '2018-06-30'
+    description: |2-
+        * Advanced Data Structures C++
+        * Object-Oriented Programming Java
 ---
