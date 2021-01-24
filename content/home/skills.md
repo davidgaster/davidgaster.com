@@ -10,24 +10,48 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
+subtitle: " "
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- name: Python
+- name: Amazon Web Services
+- name: CI/CD
+
+- name: Java
+- name: REST API's
+- name: Jenkins
+
+- name: C/C++
+- name: JWT Security
+- name: Docker
+
+- name: Javascript
+- name: React
+- name: Kubernetes
+
+- name: Haskell
+- name: Node.js
+- name: Golang
+
+# - icon: python
+#   icon_pack: fab
+#   name: Python
+# - icon: java
+#   icon_pack: fab
+#   name: Java
+# - icon: react
+#   icon_pack: fab
+#   name: React
+# - icon: aws
+#   icon_pack: fab
+#   name: Amazon Web Services
+
+# - icon: python
+#   icon_pack: custom
+#   name: Test Python
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -38,8 +62,4 @@ feature:
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
 # Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
 ---

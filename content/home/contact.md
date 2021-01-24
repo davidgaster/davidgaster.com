@@ -28,9 +28,3 @@ content:
 design:
   columns: '2'
 ---
-
-{{< highlight python "linenos=true" >}}
-def dfs(node):
-	for v in node.children:
-		dfs(v)
-{{< / highlight >}}

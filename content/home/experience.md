@@ -25,11 +25,11 @@ experience:
   - title: Software Engineer
     company: Workday
     company_url: 'https://www.workday.com/'
-    location: SF Bay Area
+    location: SF Bay Area, CA
     date_start: '2019-09-16'
     date_end: ''
     description: |2-
-      * Integrations, identity and search team
+      * Integrations, Identity and Search team
       * Full stack engineering with React, Node.js, Go, AWS
       * Data pipelines and ETL jobs in SnapLogic
       * CI/CD with Jenkins, Docker, Kubernetes
@@ -42,9 +42,9 @@ experience:
     date_start: '2018-07-01'
     date_end: '2018-10-01'
     description: |2-
-      * Cloud native data replication team
+      * Cloud Native Data Replication team
       * Query parser in Haskell for different dialects of SQL
-      * Data warehouse migration between MySQL and PostreSQL
+      * Legacy data warehouse migration
   
   - title: Academic Tutor
     company: UCSD Computer Science Department
@@ -53,6 +53,6 @@ experience:
     date_start: '2018-01-01'
     date_end: '2018-06-30'
     description: |2-
-        * Advanced Data Structures C++
-        * Object-Oriented Programming Java
+        * Advanced Data Structures in C++
+        * Object-Oriented Programming in Java
 ---
