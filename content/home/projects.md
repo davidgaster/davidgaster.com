@@ -29,7 +29,7 @@ item:
   description: |2-
     * Worked with multiple cross functional teams to deliver the integrations which are the backbone of Workday's new and improved learning platform.
     * These integrations are responsible for managing all 60,000 learners' curriculums, certifications, and affiliations.
-    * Our team enabled Single Sign-On (SSO) for all customers and achieved 18,000 unqiue successful logins within the first 24 hours.
+    * Our team enabled Single Sign-On (SSO) for all customers and achieved 18,000 unique successful logins within the first 24 hours.
     * The iValidator static code analysis project helped to catch many errors that would have arised during the release.
   organization: Workday
 

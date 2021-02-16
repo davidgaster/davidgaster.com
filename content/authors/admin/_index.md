@@ -19,8 +19,8 @@ bio: My interests include distributed systems, cloud computing and data infrastr
 # Interests to show in About widget
 interests:
 - distributed systems
+- data engineering & ML
 - cloud computing
-- machine learning
 - blockchain technology
 
 # Education to show in About widget
@@ -29,9 +29,6 @@ education:
   - course: B.S. in Computer Science
     institution: University of California, San Diego
     year: 2019
-  - course: Student in Operations Research
-    institution: Cornell University
-    year: 2014
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,6 +59,6 @@ email: ""
 highlight_name: false
 ---
 
-I'm a software engineer developing REST API's and backend services for business intelligence and data infrastructure. I enjoy learning new languages, solving challenging problems and building systems at scale.
+I'm a software engineer developing REST API's and backend services for business technology and data infrastructure. I enjoy learning new languages, solving challenging problems and building systems at scale.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Gaster_David_Resume.pdf" "newtab" >}}resume{{< /staticref >}}.
