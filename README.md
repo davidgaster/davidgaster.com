@@ -1,8 +1,6 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+# Check out my custom website I built using HUGO www.davidgaster.com
 
-# Check out my custom website I built using HUGO- www.davidgaster.com
-
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+# Academic Website for [Hugo](https://github.com/gohugoio/hugo)
 
 [**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
 
