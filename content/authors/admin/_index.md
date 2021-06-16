@@ -10,8 +10,8 @@ role: Software Engineer @
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Workday
-  url: https://www.workday.com/
+- name: Anduril Industries
+  url: https://www.anduril.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include distributed systems, cloud computing and data infrastructure.

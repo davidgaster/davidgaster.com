@@ -23,11 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Engineer
+    company: Anduril Industries
+    company_url: 'https://www.anduril.com/'
+    location: Irvine, CA
+    date_start: '2021-06-01'
+    date_end: ''
+
+  - title: Software Engineer
     company: Workday
     company_url: 'https://www.workday.com/'
     location: SF Bay Area, CA
     date_start: '2019-09-16'
-    date_end: ''
+    date_end: '2021-05-18'
     description: |2-
       * Integrations, Identity and Search team
       * Full stack engineering with React, Node.js, Go, AWS
