@@ -26,15 +26,11 @@ feature:
 
 - name: C/C++
 - name: JWT Security
-- name: Docker
-
-- name: Javascript
 - name: React
-- name: Kubernetes
 
-- name: Haskell
+- name: Go
+- name: Javascript
 - name: Node.js
-- name: Golang
 
 # - icon: python
 #   icon_pack: fab

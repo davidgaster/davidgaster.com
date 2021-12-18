@@ -37,9 +37,8 @@ experience:
     date_end: '2021-05-18'
     description: |2-
       * Integrations, Identity and Search team
-      * Full stack engineering with React, Node.js, Go, AWS
-      * Data pipelines and ETL jobs in SnapLogic
-      * CI/CD with Jenkins, Docker, Kubernetes
+      * Full stack engineering with React, Node.js, AWS
+      * Data pipelines and ETL jobs in SnapLogic, CI/CD in Jenkins
       * Performance monitoring and analytics with Splunk
         
   - title: Data Engineer Intern
